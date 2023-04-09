@@ -29,7 +29,7 @@
 						<tr>
 							<th>Tanggal</th>
 							<th>Pelapor</th>
-							<th>Pengaduan</th>a
+							<th>Pengaduan</th>
 							<th class="text-center">Status</th>
 							<th class="text-center">Aksi</th>
 						</tr>
