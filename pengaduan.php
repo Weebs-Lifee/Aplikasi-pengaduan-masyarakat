@@ -78,6 +78,7 @@
 	</div>
 	
 	<!-- Footer -->
+	<!--  -->
 	<?php include('footer-template.php') ?>
 
 <script src="assets/js/bootstrap.min.js"></script>
