@@ -72,7 +72,7 @@
 							</tr>
 						<?php } ?>
 					</table>
-				</div>asa
+				</div>
 			</div>
 		</div>
 	</div>
