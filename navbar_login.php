@@ -47,7 +47,11 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav offset-md-6" >
-          <a class="nav-item nav-link active" href="index.php" style="color: white;"><i class="fa fa-home"></i> Home</a>
+          <li class="nav-item">
+	          <a class="nav-link" href="index.php" id="teks1">
+	          	<span class="text-white"><i class="fa fa-home"></i> Home</span>
+	          </a>
+	        </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: white;">
                <i class="fa fa-user"></i> <?php echo $row['nama']; ?> 
